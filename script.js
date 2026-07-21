@@ -3,7 +3,7 @@
    you should have to touch to make it yours.
    ============================================================ */
 const CONFIG = {
-  toName: "Ma Clover",          // who it's for
+  toName: "My Clover",          // who it's for
   fromName: "Moon",             // who it's from (used on the letter signature)
 
   // Add or remove as many quiz questions as you like.

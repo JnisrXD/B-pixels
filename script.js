@@ -39,37 +39,37 @@ const CONFIG = {
   finalMessage: "HAPPIEST BIRTHDAY MY BABY!",
 
   // Optional: paste image paths/URLs here to replace the polaroid placeholders,
-  // e.g. "assets/us1.jpg"
+  // e.g. "us1.jpg"
   photos: [ 
       
-    "assets/r1.jpg" ,
-    "assets/r2.jpg"
+    "r1.jpg" ,
+    "r2.jpg"
   ]
 };
 /* ============================================================ */
 
 // All sticker images live in the assets/ folder next to this file.
 const ASSETS = {
-  girl:          "assets/girl.png",
-  cat:           "assets/cat.png",
-  mymelody:      "assets/mymelody.png",
-  heart:         "assets/heart.png",
-  star:          "assets/star.png",
-  strawberry:    "assets/strawberry.png",
-  bow:           "assets/bow.png",
-  spiral:        "assets/spiral.png",
-  speechHeart:   "assets/speech-heart.png",
-  loveBubble:    "assets/love-bubble.png",
-  kittyOops:     "assets/kitty-oops.png",
-  kittyWink:     "assets/kitty-wink.png",
-  threeHearts:   "assets/three-hearts.png",
-  wingsPair:     "assets/wings-pair.png",
-  singleWing:    "assets/single-wing.png",
-  welcomeBanner: "assets/welcome-banner.png",
-  envelopeBear:  "assets/envelope-bear.png",
-  tulips:        "assets/tulips.png",
-  musicPlayer:   "assets/music-player.png",
-  divider:       "assets/divider.png"
+  girl:          "girl.png",
+  cat:           "cat.png",
+  mymelody:      "mymelody.png",
+  heart:         "heart.png",
+  star:          "star.png",
+  strawberry:    "strawberry.png",
+  bow:           "bow.png",
+  spiral:        "spiral.png",
+  speechHeart:   "speech-heart.png",
+  loveBubble:    "love-bubble.png",
+  kittyOops:     "kitty-oops.png",
+  kittyWink:     "kitty-wink.png",
+  threeHearts:   "three-hearts.png",
+  wingsPair:     "wings-pair.png",
+  singleWing:    "single-wing.png",
+  welcomeBanner: "welcome-banner.png",
+  envelopeBear:  "envelope-bear.png",
+  tulips:        "tulips.png",
+  musicPlayer:   "music-player.png",
+  divider:       "divider.png"
 };
 
 const app = document.getElementById('app');
